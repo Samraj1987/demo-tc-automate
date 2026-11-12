@@ -1,0 +1,11 @@
+{
+  "login": { "username": "demouser", "password": "testingisfun99" },
+  "product": { "name": "iPhone 12", "price": "799.00" },
+  "shipping": {
+    "firstName": "Test",
+    "lastName": "User",
+    "address": "1 Main Street",
+    "state": "California",
+    "postalCode": "94105"
+  }
+}

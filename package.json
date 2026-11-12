@@ -1,0 +1,24 @@
+{
+  "name": "demo-tc-automate",
+  "version": "1.0.0",
+  "description": "Sample Repo to work with TC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samraj1987/demo-tc-automate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Samraj1987/demo-tc-automate/issues"
+  },
+  "homepage": "https://github.com/Samraj1987/demo-tc-automate#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0"
+  }
+}
