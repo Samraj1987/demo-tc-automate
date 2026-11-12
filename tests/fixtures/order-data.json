@@ -1,6 +1,7 @@
 {
   "login": { "username": "demouser", "password": "testingisfun99" },
   "product": { "name": "iPhone 12", "price": "799.00" },
+  "androidProduct": { "vendor": "Samsung", "name": "Galaxy S20", "price": "999.00" },
   "shipping": {
     "firstName": "Test",
     "lastName": "User",
